@@ -1,6 +1,6 @@
 export const colorLegends = (selection, props) => {
   const { data, innerHeight, innerWidth, margin, colorScale } = props;
-  const legendDims = { width: 20, height: 20, col: 4, padding: 150, space: 25 };
+  const legendDims = { width: 20, height: 20, col: 5, padding: 150, space: 25 };
 
   
   const legend =selection
